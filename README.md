@@ -56,7 +56,7 @@ Atuo principalmente com aplicações .NET, automação de testes (web, mobile e 
 
 - 🔗 **Framework de Automação de Testes Mobile**  
   Estrutura de testes automatizados com Appium e Cucumber para aplicações Android, organizada em camadas e cenários BDD.  
-  Repositório: [https://github.com/stampini81/testes_appium]
+  Repositório: [testes_appium](https://github.com/stampini81/testes_appium)
 
 - 🔗 **Automação de Testes Web / API**  
   Projeto focado em testes automatizados de interface e serviços, com relatórios e organização voltada para times de QA.  
