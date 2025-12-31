@@ -52,15 +52,15 @@ Atuo principalmente com aplicações .NET, automação de testes (web, mobile e 
 
 - 🔗 **Hidrômetro Inteligente (IoT)**  
   Sistema de medição inteligente com IoT e MQTT para monitorar consumo de água em tempo real e gerar dados para tomada de decisão.  
-  Repositório: `[https://github.com/stampini81/hidrometro_inteligente]`
+  Repositório: [https://github.com/stampini81/hidrometro_inteligente]
 
 - 🔗 **Framework de Automação de Testes Mobile**  
   Estrutura de testes automatizados com Appium e Cucumber para aplicações Android, organizada em camadas e cenários BDD.  
-  Repositório: `[COLE AQUI O LINK DO REPO]`
+  Repositório: [https://github.com/stampini81/testes_appium]
 
 - 🔗 **Automação de Testes Web / API**  
   Projeto focado em testes automatizados de interface e serviços, com relatórios e organização voltada para times de QA.  
-  Repositório: `[COLE AQUI O LINK DO REPO]`
+  Repositório: [https://github.com/stampini81/testes_appium]
 
 - 📂 Veja mais projetos em:  
   https://github.com/stampini81?tab=repositories
@@ -91,5 +91,5 @@ Atuo principalmente com aplicações .NET, automação de testes (web, mobile e 
 
 ## 📫 Como falar comigo
 
-- 💼 LinkedIn: `COLE AQUI O LINK DO SEU LINKEDIN`
-- 📧 E-mail: `SEU-EMAIL-AQUI`
+- 💼 LinkedIn: https://www.linkedin.com/in/leandro-da-silva-stampini/
+- 📧 E-mail: leandro_stampini@yahoo.com.br
