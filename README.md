@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Leandro
 
-<!--
-**stampini81/stampini81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **QA Tester** e desenvolvedor .NET, apaixonado por qualidade de software, automação de testes e projetos IoT.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalhando em: automação de testes e APIs .NET
+- 🎓 Formado pela FATEC, com TCC focado em sistemas IoT / medição inteligente
+- 🧪 Experiência com: Selenium, Appium, Cucumber, testes de API e automação de regressão
+- 💻 Também desenvolvo: back-end em .NET / JavaScript e bancos de dados relacionais
+- 🚀 Interesses: IoT, MQTT, boas práticas de QA, CI/CD e segurança da informação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+- Linguagens: C#, Java, JavaScript, Python  
+- QA / Testes: Selenium, Appium, Cucumber, Postman  
+- Dev: .NET, APIs REST, SQL  
+- Outras: Git, Docker
+
+## 📌 Projetos em destaque
+
+- 🔗 [Hidrometro inteligente (IoT)](COLE_AQUI_O_LINK_DO_REPO)
+- 🔗 [Automação de Testes Mobile](COLE_AQUI_O_LINK_DO_REPO)
+- 🔗 [Outros projetos no meu GitHub](https://github.com/stampini81?tab=repositories)
+
+## 📫 Como falar comigo
+
+- LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI
+- E-mail: leandro_stampini@yahoo.com.br
