@@ -49,7 +49,6 @@ Atuo principalmente com aplicações .NET, automação de testes (web, mobile e 
 
 ## 🚀 Projetos em destaque
 
-> Troque os links abaixo pelos seus repositórios reais.
 
 - 🔗 **Hidrômetro Inteligente (IoT)**  
   Sistema de medição inteligente com IoT e MQTT para monitorar consumo de água em tempo real e gerar dados para tomada de decisão.  
