@@ -52,7 +52,7 @@ Atuo principalmente com aplicações .NET, automação de testes (web, mobile e 
 
 - 🔗 **Hidrômetro Inteligente (IoT)**  
   Sistema de medição inteligente com IoT e MQTT para monitorar consumo de água em tempo real e gerar dados para tomada de decisão.  
-  Repositório: [https://github.com/stampini81/hidrometro_inteligente]
+  Repositório: [Hidrômetro Inteligente](https://github.com/stampini81/hidrometro_inteligente)
 
 - 🔗 **Framework de Automação de Testes Mobile**  
   Estrutura de testes automatizados com Appium e Cucumber para aplicações Android, organizada em camadas e cenários BDD.  
