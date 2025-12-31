@@ -1,13 +1,13 @@
 <!-- Banner / Título -->
 <h1 align="center">👋 Olá, eu sou o Leandro da Silva Stampini</h1>
-<h3 align="center">QA Tester e Desenvolvedor .NET apaixonado por qualidade de software e IoT</h3>
+<h3 align="center">QA Tester e Desenvolvedor .NET| JavScript/React | Java| Python| apaixonado por qualidade de software e IoT</h3>
 
 ---
 
 ## 🙋‍♂️ Sobre mim
 
 Sou **QA Tester** e desenvolvedor com foco em garantir qualidade de software através de automação de testes, boas práticas de engenharia e observabilidade.  
-Atuo principalmente com aplicações .NET, automação de testes (web, mobile e API) e projetos ligados a IoT e medição inteligente.
+Atuo principalmente com aplicações .NET| JavScript/React | Java| Python|, automação de testes (web, mobile e API) e projetos ligados a IoT e medição inteligente.
 
 - 🔎 Olhar forte para **detalhes, cenários de erro e cobertura de testes**
 - 🧪 Experiência com **Selenium, Appium, Cucumber, testes de API** e automação de regressão
