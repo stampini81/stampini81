@@ -1,5 +1,5 @@
 <!-- Banner / Título -->
-<h1 align="center">👋 Olá, eu sou o Leandro Stampini</h1>
+<h1 align="center">👋 Olá, eu sou o Leandro da Silva Stampini</h1>
 <h3 align="center">QA Tester e Desenvolvedor .NET apaixonado por qualidade de software e IoT</h3>
 
 ---
