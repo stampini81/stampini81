@@ -60,23 +60,12 @@ Atuo principalmente com aplicações .NET| JavScript/React | Java| Python|, auto
 
 - 🔗 **Automação de Testes Web / API**  
   Projeto focado em testes automatizados de interface e serviços, com relatórios e organização voltada para times de QA.  
-  Repositório: [https://github.com/stampini81/testes_appium]
+  Repositório: [Pato Primordial — API & Frontend](https://github.com/stampini81/Pato-Primordial-API-PPA-)
 
 - 📂 Veja mais projetos em:  
   https://github.com/stampini81?tab=repositories
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-> (Opcional, mas deixa o perfil mais “profissional” visualmente.)
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stampini81&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stampini81&layout=compact&theme=tokyonight" />
-
-</div>
 
 ---
 
